@@ -1,0 +1,21 @@
+body{padding-top:70px;}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{background: #64b2f5;}
+#homepage-main-carousel{margin-top:-70px;}
+#homepage-main-carousel img{
+	max-height:974px;
+	width:100%;
+	object-fit:cover;
+	background-position:top center;
+}
+#homepage-main-carousel .item{position:relative;}
+#homepage-main-carousel .carousel-caption{margin:0;padding:0;bottom:initial;top:50%;transform:translateY(-50%);}
+#homepage-main-carousel h1{margin:0;}
+.nopadleft{padding-left:0;}
+.nopadright{padding-right:0;}
+#register-container .form-group .col-md-6:first-of-type{padding-left:0;}
+#register-container .form-group .col-md-3:first-of-type{padding-left:0;}
+#register-container .form-group .col-md-6:last-of-type{padding-right:0;}
+#register-container .form-group .col-md-3:last-of-type{padding-right:0;}
+#register-container .pmd-textfield label{margin-left:10px;}
+#register-container .listOfItems{background:#FAFAFA;padding: 10px 0;}
+#register-container .listOfItems h4{margin-left:10px;color:#888;}
